@@ -1,57 +1,73 @@
-<h1 align="center">Hi 👋, I'm Uzair Akhtar</h1>
-<h3 align="center">Aspiring Data Engineer | SQL | Python | ETL Pipelines</h3>
+<h1 align="center">Uzair Akhtar</h1>
+<h3 align="center">🚀 Aspiring Data Engineer | Building Scalable Data Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Data+Engineering+Enthusiast;SQL+%7C+Python+%7C+ETL;AWS+%7C+PySpark+%7C+Databricks&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🚀 About Me
-- 🎓 BS Data Analytics (In Progress)
-- 💡 Passionate about building scalable data systems
-- 🔍 Skilled in transforming raw data into meaningful insights
-- ☁️ Learning cloud technologies (AWS)
+## 👨‍💻 About Me
+- 🎓 BS Data Analytics Student  
+- ⚡ Focused on **Data Engineering & Analytics**
+- 🏗️ Building **ETL Pipelines & Data Warehouses**
+- ☁️ Learning **AWS Cloud (S3, EC2)**  
+- 🎯 Goal: Become a **Data Engineer**
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages:** Python, SQL  
-- **Data Tools:** Pandas, NumPy, PySpark, Databricks  
-- **Concepts:** ETL/ELT Pipelines, Data Warehousing, Data Modeling  
-- **Cloud:** AWS (S3, EC2)  
-- **Other:** Git, Data Cleaning, Query Optimization  
+## 🧠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,aws,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PySpark-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Databricks-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ETL-Pipelines-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data-Warehousing-green?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📊 Projects
+## 📊 Featured Projects
 
 ### 🔹 Modern Data Warehouse
-- Built Bronze, Silver, Gold layered architecture  
-- Developed ETL pipelines  
-- Optimized SQL queries for performance  
+✔️ Bronze-Silver-Gold Architecture  
+✔️ ETL Pipelines (SQL)  
+✔️ Query Optimization  
 
 ### 🔹 Exploratory Data Analysis
-- Data cleaning & preprocessing  
-- Trend analysis using Pandas  
-- Data visualization insights  
+✔️ Data Cleaning (Pandas)  
+✔️ Trend Analysis  
+✔️ Visualization Insights  
 
-### 🔹 Large-Scale Data Analytics
-- Processed large datasets efficiently  
-- Improved performance using optimized queries  
-
----
-
-## 📜 Certifications
-- 🏅 Associate Data Engineer in SQL — DataCamp  
-- 🏅 Data Engineer in Python — DataCamp  
+### 🔹 Large-Scale Data Processing
+✔️ Optimized Queries  
+✔️ Efficient Data Workflows  
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: uzair.akhtar501@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/uzair08  
-- 💻 GitHub: https://github.com/HafizUzairAkhtar  
+## 📈 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HafizUzairAkhtar&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafizUzairAkhtar&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizUzairAkhtar&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
-![Uzair's GitHub stats](https://github-readme-stats.vercel.app/api?username=HafizUzairAkhtar&show_icons=true&theme=tokyonight)
+## 🏆 Certifications
+- 🎓 Associate Data Engineer in SQL — DataCamp  
+- 🎓 Data Engineer in Python — DataCamp  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HafizUzairAkhtar&layout=compact&theme=tokyonight)
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/uzair08"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:uzair.akhtar501@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+</p>
