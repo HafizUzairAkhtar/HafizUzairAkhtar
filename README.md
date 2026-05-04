@@ -17,6 +17,7 @@
 ---
 
 ## 👨‍💻 About Me
+
 🎓 BS Data Analytics Student  
 💡 Passionate about **Data Engineering & Analytics**  
 🏗️ Building **ETL Pipelines & Data Warehouses**  
@@ -29,11 +30,13 @@
 ## 🧠 Tech Stack
 
 ### 🚀 Core Technologies
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,aws,git" />
 </p>
 
 ### ⚙️ Tools & Concepts
+
 <p align="center">
   <img src="https://img.shields.io/badge/PySpark-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Databricks-red?style=for-the-badge"/>
@@ -68,23 +71,28 @@
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HafizUzairAkhtar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HafizUzairAkhtar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HafizUzairAkhtar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizUzairAkhtar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=HafizUzairAkhtar&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HafizUzairAkhtar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🏆 Certifications
+
 🎓 **Associate Data Engineer in SQL** — DataCamp  
 🎓 **Data Engineer in Python** — DataCamp  
 
 ---
 
 ## 📚 Currently Learning
+
 - Advanced **Data Engineering Concepts**  
 - **Cloud Data Solutions (AWS)**  
 - **Big Data Tools (PySpark, Databricks)**  
@@ -92,6 +100,7 @@
 ---
 
 ## 🎯 2026 Goals
+
 - 🚀 Build 5+ real-world **Data Engineering projects**  
 - ☁️ Gain hands-on experience with **cloud pipelines**  
 - 📊 Strengthen **SQL & system design skills**  
@@ -100,6 +109,7 @@
 ---
 
 ## 🌟 Profile Highlights
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HafizUzairAkhtar&label=Profile%20Views&color=blue&style=for-the-badge" />
 </p>
